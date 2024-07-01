@@ -1,0 +1,19 @@
+{
+    "name": "specbee/storm_cms_webform",
+    "type": "drupal-recipe",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Malabya",
+            "email": "malabya@specbee.com"
+        }
+    ],
+    "require": {
+        "drupal/webform": "^6.2",
+        "drupal/webform_views": "^5.2",
+        "drupal/address": "^2.0",
+        "drupal/webform_xlsx_export": "^1.2",
+        "drupal/clientside_validation": "^4.0",
+        "drupal/smtp": "^1.3"
+    }
+}

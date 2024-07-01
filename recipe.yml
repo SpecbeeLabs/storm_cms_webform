@@ -1,0 +1,9 @@
+name: Storm CMS Webform
+description: Storm CMS Webform
+install:
+  - address
+  - clientside_validation
+  - smtp
+  - webform
+  - webform_views
+  - webform_xlsx_export
